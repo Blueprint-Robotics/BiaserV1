@@ -15,7 +15,7 @@ A 14-IR sensor array based Line Follower built for competitive line and wall fol
 
 | Event | Result | Year |
 |-------|--------|------|
-| IUT Accelerate | 1st | 2025 |
+| IUT Accelerate | Champion | 2025 |
 | Traction | 2nd Runner-up | 2025 |
 | KUET Ignition | 1st Runner-up | 2026 |
 | WRO Future Engineers Nationals | Bronze Medalist | 2026 |
